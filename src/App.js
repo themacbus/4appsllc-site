@@ -12,11 +12,11 @@ function App() {
         <section className="min-h-screen flex items-center justify-center px-6 py-10" id="hero">
           <div className="text-center max-w-2xl">
             <h1 className="text-4xl md:text-5xl font-bold mb-4">
-              AI Compliance & Strategy Solutions
-            </h1>
-            <p className="text-lg md:text-xl mb-6">
-              Helping You Navigate M-25-21 & M-25-22 with Confidence
-            </p>
+  AI Compliance & Strategic Readiness
+</h1>
+<p className="text-lg md:text-xl mb-6">
+  Guiding Agencies Through EO 14110, M-25-21, and M-25-22 — From Policy to Practice
+</p>
             <a
               href="mailto:info@4appsllc.com"
               className="bg-primary text-white font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-darkPurple transition"
