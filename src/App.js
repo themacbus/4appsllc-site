@@ -110,36 +110,7 @@ function App() {
         </section>
       </FadeInSection>
 
-      {/* Core Offerings */}
-      <FadeInSection>
-        <section className="bg-white text-black py-10 px-6" id="core-offerings">
-          <div className="max-w-6xl mx-auto text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-8">Core Offerings</h2>
-            <div className="grid md:grid-cols-2 gap-4 text-left">
-              <div className="border border-primary p-5 rounded-xl shadow">
-                <h3 className="text-lg font-semibold mb-2">AI Compliance Starter Kit</h3>
-                <p className="mb-1 text-sm md:text-base">Templates, strategy draft, and email support</p>
-                <p className="font-bold text-darkPurple">$25,000+</p>
-              </div>
-              <div className="border border-primary p-5 rounded-xl shadow">
-                <h3 className="text-lg font-semibold mb-2">Full Implementation Package</h3>
-                <p className="mb-1 text-sm md:text-base">Includes toolkit + workshops + 30-day support</p>
-                <p className="font-bold text-darkPurple">$85,000–$135,000</p>
-              </div>
-              <div className="border border-primary p-5 rounded-xl shadow">
-                <h3 className="text-lg font-semibold mb-2">CIO/CDAO Training Add-On</h3>
-                <p className="mb-1 text-sm md:text-base">Executive briefings, tool demos, and playbooks</p>
-                <p className="font-bold text-darkPurple">$15,000–$25,000</p>
-              </div>
-              <div className="border border-primary p-5 rounded-xl shadow">
-                <h3 className="text-lg font-semibold mb-2">Ongoing Advisory Subscription</h3>
-                <p className="mb-1 text-sm md:text-base">Monthly compliance and training support</p>
-                <p className="font-bold text-darkPurple">$5,000/month</p>
-              </div>
-            </div>
-          </div>
-        </section>
-      </FadeInSection>
+    
 
       {/* Contact Section */}
       <FadeInSection>
