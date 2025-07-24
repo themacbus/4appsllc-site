@@ -72,7 +72,7 @@ function App() {
                 </ul>
               </div>
               <div className="bg-primary text-white p-5 rounded-xl shadow">
-                <h3 className="text-xl font-bold mb-2">🎓 Executive Training</h3>
+                <h3 className="text-xl font-bold mb-2"> Executive Training</h3>
                 <ul className="list-disc list-inside space-y-1 text-xs md:text-sm">
                   <li>Live workshops for CIOs, CDAOs, CAIOs</li>
                   <li>Plain-language AI policy training</li>
@@ -201,7 +201,7 @@ function App() {
               <li> Leadership briefings + agency-tailored AI strategy</li>
             </ul>
 
-            <h3 className="text-2xl md:text-3xl font-semibold mb-4">📞 Schedule a Discovery Call</h3>
+            <h3 className="text-2xl md:text-3xl font-semibold mb-4"> Schedule a Discovery Call</h3>
             <p className="mb-2 text-lg">
               Let’s discuss your agency’s needs and readiness.
             </p>
