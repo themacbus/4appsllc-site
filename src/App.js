@@ -63,7 +63,7 @@ function App() {
             <h2 className="text-3xl md:text-4xl font-bold text-center mb-8">What We Do</h2>
             <div className="grid md:grid-cols-3 gap-4">
               <div className="bg-primary text-white p-5 rounded-xl shadow">
-                <h3 className="text-xl font-bold mb-2">🧰 AI Governance Toolkit</h3>
+                <h3 className="text-xl font-bold mb-2"> AI Governance Toolkit</h3>
                 <ul className="list-disc list-inside space-y-1 text-xs md:text-sm">
                   <li>Use Case Inventory Template</li>
                   <li>Risk & Impact Assessment Templates</li>
@@ -81,7 +81,7 @@ function App() {
                 </ul>
               </div>
               <div className="bg-primary text-white p-5 rounded-xl shadow">
-                <h3 className="text-xl font-bold mb-2">🧭 Strategic Advisory</h3>
+                <h3 className="text-xl font-bold mb-2"> Strategic Advisory</h3>
                 <ul className="list-disc list-inside space-y-1 text-xs md:text-sm">
                   <li>Setting up the CAIO function</li>
                   <li>AI audit prep & OMB reporting</li>
@@ -146,7 +146,7 @@ function App() {
               readiness, and unlock innovation — all within 4–6 months.
             </p>
 
-            <h3 className="text-2xl md:text-3xl font-semibold mb-4">🏛 Agency Engagement Tiers</h3>
+            <h3 className="text-2xl md:text-3xl font-semibold mb-4"> Agency Engagement Tiers</h3>
             <div className="overflow-x-auto mb-10">
               <table className="min-w-full border border-gray-300 text-sm md:text-base">
                 <thead className="bg-primary text-white">
@@ -191,22 +191,22 @@ function App() {
               </table>
             </div>
 
-            <h3 className="text-2xl md:text-3xl font-semibold mb-4">📌 All Packages Include:</h3>
+            <h3 className="text-2xl md:text-3xl font-semibold mb-4"> All Packages Include:</h3>
             <ul className="list-disc list-inside space-y-2 mb-10 text-base md:text-lg">
-              <li>📋 EO 14110 / M-25-21 / M-25-22 compliance implementation</li>
-              <li>🧠 Live AI literacy training for all levels of staff</li>
-              <li>🔧 AI use case inventory & risk registry creation</li>
-              <li>🏛️ Governance model & CAIO onboarding roadmap</li>
-              <li>🔍 Gap analysis & internal policy audit</li>
-              <li>💼 Leadership briefings + agency-tailored AI strategy</li>
+              <li> EO 14110 / M-25-21 / M-25-22 compliance implementation</li>
+              <li> Live AI literacy training for all levels of staff</li>
+              <li> AI use case inventory & risk registry creation</li>
+              <li> Governance model & CAIO onboarding roadmap</li>
+              <li> Gap analysis & internal policy audit</li>
+              <li> Leadership briefings + agency-tailored AI strategy</li>
             </ul>
 
             <h3 className="text-2xl md:text-3xl font-semibold mb-4">📞 Schedule a Discovery Call</h3>
             <p className="mb-2 text-lg">
               Let’s discuss your agency’s needs and readiness.
             </p>
-            <p className="text-lg">📧 <a href="mailto:info@4appsllc.com" className="text-primary underline">info@4appsllc.com</a></p>
-            <p className="text-lg">📞 <a href="tel:2284241394" className="text-primary underline">228-424-1394</a></p>
+            <p className="text-lg"> <a href="mailto:info@4appsllc.com" className="text-primary underline">info@4appsllc.com</a></p>
+            <p className="text-lg"> <a href="tel:2284241394" className="text-primary underline">228-424-1394</a></p>
           </div>
         </section>
       </FadeInSection>
