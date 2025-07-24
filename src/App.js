@@ -164,21 +164,21 @@ function App() {
                     <td className="px-4 py-2 border">Full implementation support, workforce training, risk registry, policy alignment, and roadmap</td>
                     <td className="px-4 py-2 border">4 months</td>
                     <td className="px-4 py-2 border">$175,000</td>
-                    <td className="px-4 py-2 border">~$3,500</td>
+                    <td className="px-4 py-2 border">$3,500</td>
                   </tr>
                   <tr>
                     <td className="px-4 py-2 border">Mid-size (51–250 staff)</td>
                     <td className="px-4 py-2 border">Scaled roadmap + workshop clusters, embedded advisory support, CAIO transition framework</td>
                     <td className="px-4 py-2 border">5 months</td>
                     <td className="px-4 py-2 border">$350,000</td>
-                    <td className="px-4 py-2 border">~$1,400</td>
+                    <td className="px-4 py-2 border">$1,400</td>
                   </tr>
                   <tr>
                     <td className="px-4 py-2 border">Large (251–999 staff)</td>
                     <td className="px-4 py-2 border">Departmental coordination, executive strategy, governance model, audit readiness</td>
                     <td className="px-4 py-2 border">6 months</td>
                     <td className="px-4 py-2 border">$650,000</td>
-                    <td className="px-4 py-2 border">~$650–$2,500</td>
+                    <td className="px-4 py-2 border">$650–$2,500</td>
                   </tr>
                   <tr>
                     <td className="px-4 py-2 border">Enterprise (1,000+ staff)</td>
