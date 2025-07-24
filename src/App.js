@@ -161,6 +161,85 @@ function App() {
           </div>
         </section>
       </FadeInSection>
+            {/* Pricing Page Section */}
+      <FadeInSection>
+        <section className="bg-white text-black py-10 px-6" id="pricing">
+          <div className="max-w-6xl mx-auto">
+            <h2 className="text-4xl md:text-5xl font-bold text-center mb-6">
+              Fractional CAIO Engagements
+            </h2>
+            <p className="text-lg md:text-xl text-center mb-10">
+              We offer time-bound, high-impact Fractional CAIO (Chief AI Officer) engagements
+              designed to align your agency with Executive Order 14110 and implementing memoranda
+              M-25-21 and M-25-22. Our packages ensure policy compliance, increase workforce
+              readiness, and unlock innovation — all within 4–6 months.
+            </p>
+
+            <h3 className="text-2xl md:text-3xl font-semibold mb-4">🏛 Agency Engagement Tiers</h3>
+            <div className="overflow-x-auto mb-10">
+              <table className="min-w-full border border-gray-300 text-sm md:text-base">
+                <thead className="bg-primary text-white">
+                  <tr>
+                    <th className="px-4 py-2 border">Agency Size</th>
+                    <th className="px-4 py-2 border">Engagement Scope</th>
+                    <th className="px-4 py-2 border">Duration</th>
+                    <th className="px-4 py-2 border">Total Cost</th>
+                    <th className="px-4 py-2 border">Per Person Avg</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td className="px-4 py-2 border">Small (≤50 staff)</td>
+                    <td className="px-4 py-2 border">Full implementation support, workforce training, risk registry, policy alignment, and roadmap</td>
+                    <td className="px-4 py-2 border">4 months</td>
+                    <td className="px-4 py-2 border">$175,000</td>
+                    <td className="px-4 py-2 border">~$3,500</td>
+                  </tr>
+                  <tr>
+                    <td className="px-4 py-2 border">Mid-size (51–250 staff)</td>
+                    <td className="px-4 py-2 border">Scaled roadmap + workshop clusters, embedded advisory support, CAIO transition framework</td>
+                    <td className="px-4 py-2 border">5 months</td>
+                    <td className="px-4 py-2 border">$350,000</td>
+                    <td className="px-4 py-2 border">~$1,400</td>
+                  </tr>
+                  <tr>
+                    <td className="px-4 py-2 border">Large (251–999 staff)</td>
+                    <td className="px-4 py-2 border">Departmental coordination, executive strategy, governance model, audit readiness</td>
+                    <td className="px-4 py-2 border">6 months</td>
+                    <td className="px-4 py-2 border">$650,000</td>
+                    <td className="px-4 py-2 border">~$650–$2,500</td>
+                  </tr>
+                  <tr>
+                    <td className="px-4 py-2 border">Enterprise (1,000+ staff)</td>
+                    <td className="px-4 py-2 border">Enterprise-wide strategy, digital workforce alignment, real-world problem labs, cross-agency scalability</td>
+                    <td className="px-4 py-2 border">6 months</td>
+                    <td className="px-4 py-2 border">Starting at $1.25M</td>
+                    <td className="px-4 py-2 border">Custom pricing</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <h3 className="text-2xl md:text-3xl font-semibold mb-4">📌 All Packages Include:</h3>
+            <ul className="list-disc list-inside space-y-2 mb-10 text-base md:text-lg">
+              <li>📋 EO 14110 / M-25-21 / M-25-22 compliance implementation</li>
+              <li>🧠 Live AI literacy training for all levels of staff</li>
+              <li>🔧 AI use case inventory & risk registry creation</li>
+              <li>🏛️ Governance model & CAIO onboarding roadmap</li>
+              <li>🔍 Gap analysis & internal policy audit</li>
+              <li>💼 Leadership briefings + agency-tailored AI strategy</li>
+            </ul>
+
+            <h3 className="text-2xl md:text-3xl font-semibold mb-4">📞 Schedule a Discovery Call</h3>
+            <p className="mb-2 text-lg">
+              Let’s discuss your agency’s needs and readiness.
+            </p>
+            <p className="text-lg">📧 <a href="mailto:info@4appsllc.com" className="text-primary underline">info@4appsllc.com</a></p>
+            <p className="text-lg">📞 <a href="tel:2284241394" className="text-primary underline">228-424-1394</a></p>
+          </div>
+        </section>
+      </FadeInSection>
+
     </div>
   );
 }

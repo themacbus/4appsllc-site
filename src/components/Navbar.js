@@ -7,13 +7,15 @@ export default function Navbar() {
   const [animateIcon, setAnimateIcon] = useState(false);
 
   const navItems = [
-    { to: "hero", label: "Home" },
-    { to: "who-we-are", label: "Who We Are" },
-    { to: "what-we-do", label: "What We Do" },
-    { to: "what-sets-us-apart", label: "Why Us" },
-    { to: "core-offerings", label: "Services" },
-    { to: "contact", label: "Contact" },
-  ];
+  { to: "hero", label: "Home" },
+  { to: "who-we-are", label: "Who We Are" },
+  { to: "what-we-do", label: "What We Do" },
+  { to: "what-sets-us-apart", label: "Why Us" },
+  { to: "core-offerings", label: "Services" },
+  { to: "pricing", label: "Pricing" },
+  { to: "contact", label: "Contact" },
+];
+
 
   useEffect(() => {
     if (isOpen) {
