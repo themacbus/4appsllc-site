@@ -111,27 +111,6 @@ function App() {
       </FadeInSection>
 
     
-
-      {/* Contact Section */}
-      <FadeInSection>
-        <section className="bg-primary text-white py-10 px-6" id="contact">
-          <div className="max-w-2xl mx-auto text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Get Compliant, Fast?</h2>
-            <p className="mb-6 text-lg">
-              Let’s talk — no need to hire a full-time CAIO.
-            </p>
-            <a
-              href="mailto:info@4appsllc.com"
-              className="bg-white text-primary font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-darkPurple hover:text-white transition"
-            >
-              Contact Us
-            </a>
-            <p className="mt-4 text-sm text-white/80">
-              Based in Chesapeake, VA | Serving clients nationwide
-            </p>
-          </div>
-        </section>
-      </FadeInSection>
             {/* Pricing Page Section */}
       <FadeInSection>
         <section className="bg-white text-black py-10 px-6" id="pricing">
@@ -207,6 +186,27 @@ function App() {
             </p>
             <p className="text-lg"> <a href="mailto:info@4appsllc.com" className="text-primary underline">info@4appsllc.com</a></p>
             <p className="text-lg"> <a href="tel:2284241394" className="text-primary underline">228-424-1394</a></p>
+          </div>
+        </section>
+      </FadeInSection>
+
+       {/* Contact Section */}
+      <FadeInSection>
+        <section className="bg-primary text-white py-10 px-6" id="contact">
+          <div className="max-w-2xl mx-auto text-center">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Get Compliant, Fast?</h2>
+            <p className="mb-6 text-lg">
+              Let’s talk — no need to hire a full-time CAIO.
+            </p>
+            <a
+              href="mailto:info@4appsllc.com"
+              className="bg-white text-primary font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-darkPurple hover:text-white transition"
+            >
+              Contact Us
+            </a>
+            <p className="mt-4 text-sm text-white/80">
+              Based in Chesapeake, VA | Serving clients nationwide
+            </p>
           </div>
         </section>
       </FadeInSection>
